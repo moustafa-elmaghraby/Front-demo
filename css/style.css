@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pos-1{
+    left: 20;
+}
+
+.container{
+    width: 90%;
+}
+
+.deco a{
+    text-decoration: none;
+}
+
+.pos-2{
+    
+    right: 0;
+
+    top: 0;
+}
+
+.pos-3{
+    top: 0;
+
+right: 3%;    
+
+}
+.icon{
+    
+    left: 2%;
+    top: 5%;
+    padding-top: 5px;
+    
+    
+}
+
+.ho-1{
+    transition: 1s all ease-in-out;
+    border-radius: 15px;
+}
+.ho-1:hover{
+    
+    box-shadow: 10px 10px 10px 10px;
+    transition: 1s all ease-in-out;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(141, 141, 141) 15px 15px ;
+    border-radius: 15px;
+
+}
+
+
+.pes-1{
+    left: 8%;
+}
+
+.pes-2{
+   left: 41%;
+    
+
+}
+
+.pes-3{
+    right: 25%;
+}
+
+.pado-top{
+    padding-top: 40px;
+    
+}
+.pado-1{
+    padding-top: 30px;
+}
+
+.pado-left{
+    padding-left: 45px;
+}
+.pado-left ul li a:hover{
+    color: rgb(13, 110, 253)  !important;
+    transition: 0.5s all ease-in-out;
+} 
+
+nav a:hover{
+    color: rgb(13, 110, 253)  !important;
+    transition: 0.5s all ease-in-out;
+
+}
+
+.footer a{
+    color: #fff   !important;
+}
+
+.footer{
+    color: #fff   !important;
+
+    border-bottom: 2px soild white;
+}
+.fot-logo{
+
+    padding-bottom: 20px;
+}
+
+.link-color a{
+
+    color: #fff   !important;
+}
