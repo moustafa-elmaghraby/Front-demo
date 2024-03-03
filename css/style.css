@@ -51,6 +51,9 @@ right: 3%;
     border-radius: 15px;
 
 }
+.form-1{
+    padding: 20px 10px 0px 0px;
+}
 
 
 .pes-1{
@@ -64,6 +67,7 @@ right: 3%;
 }
 
 .pes-3{
+    top:0%;
     right: 25%;
 }
 
@@ -107,3 +111,11 @@ nav a:hover{
 
     color: #fff   !important;
 }
+
+.fot-pad-1{
+
+    padding-bottom: 50px;
+}
+
+
+
